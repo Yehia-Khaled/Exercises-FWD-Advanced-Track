@@ -18,10 +18,7 @@ class FavouriteMovie extends Component {
                     return(
                         //Fixme this give me  incorrect data output
                         <li key={profile.id}>
-                            {/* If the syntax below looks unfamiliar, please take the following
-              course:
-              https://www.udacity.com/course/es6-javascript-improved--ud356
-                */}
+
                             <p>{`${userName}\'s favorite movie is ${favMovieName}.`}</p>
                         </li>
                     )
