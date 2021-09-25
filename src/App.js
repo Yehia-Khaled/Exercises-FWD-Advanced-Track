@@ -114,3 +114,31 @@ class App extends Component {
 }
 
 export default App;
+
+/*output solution
+* Favorite Movies
+Jane Cruz's favorite movie is "Planet Earth."
+
+Matthew Johnson's favorite movie is "Planet Earth."
+
+John Doe's favorite movie is "Get Out."
+
+Lauren Carlson's favorite movie is "Selma."
+
+Autumn Green's favorite movie is "Get Out."
+
+Nicholas Lain's favorite movie is "Forrest Gump."*/
+
+/*my output
+* Favorite Movies
+Jane Cruz's favorite movie is Planet Earth 1.
+
+Matthew Johnson's favorite movie is Planet Earth 1.
+
+John Doe's favorite movie is Get Out.
+
+Lauren Carlson's favorite movie is Selma.
+
+Autumn Green's favorite movie is Get Out.
+
+Nicholas Lain's favorite movie is Forrest Gump.*/
