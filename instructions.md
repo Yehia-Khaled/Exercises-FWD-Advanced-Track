@@ -69,3 +69,10 @@ As you go about tackling this project, try to make the app *modular* by breaking
 <h2>Autumn Green</h2>
 <p>None of the current users liked this movie</p>
 ```
+
+##7. Exercise - Functional Components
+**Task**: Modify this app to use Stateless Functional Components. Remember that for
+performance reasons, if a compoenent doesn't need to hold state, we'd want to
+make it a Stateless Functional Component.
+
+This exercise will help you practice passing data into Stateless Functional Components.
